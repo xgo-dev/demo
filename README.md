@@ -1,7 +1,5 @@
 # demo
 
-## Hello
-
 ### hello-go
 
 ![alt text](assets/hello-go.png)
